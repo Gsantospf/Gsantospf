@@ -1,15 +1,20 @@
 <div align="center">
-  <h1>Gabriel Santos</h1>
-  <p><b>.NET Developer · Back-end · Clean Architecture</b></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gspf)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gsantospiresferreira@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gsantospf)
+# Gabriel Santos
+
+**.NET Developer · Back-end · Clean Architecture**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gspf)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gsantospiresferreira@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gsantospf)
+
 </div>
 
 ---
 
-Desenvolvedor back-end com foco em **C# e .NET**, apaixonado por boas práticas como **Clean Architecture**, **DDD** e princípios **SOLID**. Atualmente trabalhando na Vulp Air, evoluindo sistemas internos de missão crítica.
+Desenvolvedor back-end com foco em **C# e .NET**, apaixonado por boas práticas como **Clean Architecture**, **DDD** e princípios **SOLID**. Atualmente na **Vulp Air**, sustentando e evoluindo sistemas internos de missão crítica.
 
 ---
 
@@ -26,14 +31,17 @@ Desenvolvedor back-end com foco em **C# e .NET**, apaixonado por boas práticas 
 
 ### 📌 Projetos
 
-[![RentWise](https://github-readme-stats.vercel.app/api/pin/?username=Gsantospf&repo=RentWise&theme=tokyonight&hide_border=true)](https://github.com/Gsantospf/RentWise)
-[![PaymentContext](https://github-readme-stats.vercel.app/api/pin/?username=Gsantospf&repo=PaymentContext&theme=tokyonight&hide_border=true)](https://github.com/Gsantospf/PaymentContext)
+**[RentWise](https://github.com/Gsantospf/RentWise)**
+Sistema de gerenciamento de locações com Clean Architecture e DDD em C# .NET.
+
+**[PaymentContext](https://github.com/Gsantospf/PaymentContext)**
+Contexto de pagamentos aplicando Domain-Driven Design e princípios SOLID em C# .NET.
+
+**[TodoApi](https://github.com/Gsantospf/TodoApi)**
+API RESTful para gerenciamento de tarefas com ASP.NET Core e Entity Framework.
 
 ---
 
-### 📊 Stats
+### 📐 Práticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gsantospf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsantospf&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+`Clean Architecture` · `Domain-Driven Design` · `SOLID` · `Design Patterns` · `REST APIs` · `Scrum`
